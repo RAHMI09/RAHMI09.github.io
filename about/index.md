@@ -16,6 +16,7 @@ date: 2016-04-25
 
 ## <b> BIOGRAPHY </b>
 * <b>Nama : </b> Rahmi Septhianingrum
+* <b> NIM : </b> 11353201953
 * <b>TTL :</b> Pekanbaru, 29 September 1995
 * <b>Kelas :</b> SIF’B 2013
 * <b>Jurusan :</b> <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a>
@@ -25,11 +26,11 @@ date: 2016-04-25
 
 ## <b> Sekedar Coretan </b>
 
-Saya adalah Rahmi Septhianingrum, Saya seorang mahasiswa semester 6 jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a> di <a href="htpp://uin-suska.ac.id/">UIN SUSKA RIAU</a>. 
+Saya adalah Rahmi Septhianingrum, Saya seorang mahasiswi semester 6 jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a> di <a href="htpp://uin-suska.ac.id/">UIN SUSKA RIAU</a>. 
 
 <audio controls autoplay> 
 <source src="http://RAHMI09.github.io/Edcoustic - Muhasabah Cinta.mp3" type="audio/wav"> 
 <source src="http://RAHMI09.github.io/Edcoustic - Muhasabah Cinta.mp3" type="audio/mpeg"> 
 </audio>
       
-<center><b> :) WASSSALAM :) </b></center>
+<center><b> ** WASSSALAM ** </b></center>

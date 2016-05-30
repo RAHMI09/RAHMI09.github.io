@@ -13,7 +13,7 @@ date: 2016-04-25
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
-<center><b> :) ASSALAMU'ALAIKUM :) </b></center>
+<center><b> **ASSALAMU'ALAIKUM ** </b></center>
 
 ## <b> BIOGRAPHY </b>
 * <b>Nama : </b> Rahmi Septhianingrum
@@ -21,7 +21,7 @@ date: 2016-04-25
 * <b>Kelas :</b> SIF’B 2013
 * <b>Jurusan :</b> <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a>
 * <b>Fakultas :</b> <a href="http://fst.uin-suska.ac.id">Sains dan Teknologi</a>
-* <b>Universitas :</b> <a href="htpp://uin-suska.ac.id">UIN SUSKA Riau</a>
+* <b>Universitas :</b> <a href="htpp://uin-suska.ac.id">UIN SUSKA RIAU</a>
 
 
 ## <b> Sekedar Coretan </b>
@@ -29,8 +29,8 @@ date: 2016-04-25
 Saya adalah Rahmi Septhianingrum, Saya seorang mahasiswa semester 6 jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a> di <a href="htpp://uin-suska.ac.id/">UIN SUSKA RIAU</a>. 
 
 <audio controls autoplay> 
-<source src="http://jayussuryawan.github.io/Edcoustic - Muhasabah Cinta.mp3" type="audio/wav"> 
-<source src="http://jayussuryawan.github.io/Edcoustic - Muhasabah Cinta.mp3" type="audio/mpeg"> 
+<source src="http://RAHMI09.github.io/Edcoustic - Muhasabah Cinta.mp3" type="audio/wav"> 
+<source src="http://RAHMI09.github.io/Edcoustic - Muhasabah Cinta.mp3" type="audio/mpeg"> 
 </audio>
       
 <center><b> :) WASSSALAM :) </b></center>

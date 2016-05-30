@@ -9,8 +9,7 @@ date: 2016-04-25
 
 
 {% capture images %}
-    https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9EPe9kKJOC7-_jF1MYdSqS0fq-l_QfMylAwEd1xa9x0GxJMg-Kg
-{% endcapture %}
+    http://3.bp.blogspot.com/-k-NavV7iS-w/VK-9llz0D5I/AAAAAAAAAB0/QSPPc7IQrDw/s1600/timthumb.jpg
 {% include gallery images=images cols=1 %}
 
 <center><b> **ASSALAMU'ALAIKUM ** </b></center>
